@@ -1,0 +1,62 @@
+section{
+        color: indigo;
+        margin: 70px;
+}
+
+h1{
+    display: flexbox;
+    color: brown;
+    text-size-adjust: 100%;
+    text-align: center;
+    margin-top: 90px;
+}
+body{
+    background-image: url(im.jpg);
+    background-position: right;
+    background-attachment: fixed;
+
+}
+p{
+    color: red; /* set color to red*/
+    size:100px;
+}
+h1.the{
+    color: beige;
+}
+body{
+    background-color: rgba(red, green, blue, 0.3)
+}
+div.boy {
+    background-image: url(im2.jpg);
+    background-repeat: no-repeat;
+
+  }
+
+  h1{
+    border-style: dashed 3px;
+  }
+div{
+    border-style: outset;
+}
+    
+div{
+    background-color: rgb(226, 211, 211);
+    border-width: 2px;
+    border-color: red;
+    padding: 20px;
+    margin: 30px;
+}
+h1{
+    height: 100px;
+    width: 300px;
+    border:20px;
+    background: red;
+}
+h2{
+    color: lightgray;
+    border: 300px;
+    background: greenyellow;
+}
+p.a{
+    text-align: right;
+}
